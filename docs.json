@@ -156,11 +156,20 @@
       ]
     }
   ],
-  "footerSocials": {
-    "website": "https://radiomeltdown.com",
-    "youtube": "https://youtube.com/@STVRADIOMELTDOWN",
-    "tiktok": "https://tiktok.com/@sanecatv"
-  },
+  "footerSocials": [
+    {
+      "type": "website",
+      "url": "https://radiomeltdown.com"
+    },
+    {
+      "type": "youtube",
+      "url": "https://youtube.com/@STVRADIOMELTDOWN"
+    },
+    {
+      "type": "instagram",
+      "url": "https://instagram.com/sanecatv"
+    }
+  ],
   "feedback": {
     "thumbsRating": true,
     "suggestEdit": false
