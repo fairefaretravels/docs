@@ -2,8 +2,8 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "Radiomeltdown Course",
   "logo": {
-    "dark": "/logo/stv-logo.png",
-    "light": "/logo/stv-logo.png"
+    "dark": "/logo/stv-logo.jpeg",
+    "light": "/logo/stv-logo.jpeg"
   },
   "favicon": "/favicon.ico",
   "colors": {
@@ -54,7 +54,7 @@
       "url": "https://radiomeltdown.com"
     },
     {
-      "name": "Enroll â $97",
+      "name": "Enroll — $97",
       "icon": "graduation-cap",
       "url": "https://radiomeltdown.com"
     }
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "group": "Module 1 â Vision & Format",
+      "group": "Module 1 — Vision & Format",
       "pages": [
         "modules/module-1-overview",
         "modules/lesson-1-1",
@@ -79,7 +79,7 @@
       ]
     },
     {
-      "group": "Module 2 â Tech Setup",
+      "group": "Module 2 — Tech Setup",
       "pages": [
         "modules/module-2-overview",
         "modules/lesson-2-1",
@@ -90,7 +90,7 @@
       ]
     },
     {
-      "group": "Module 3 â Audience Mapping",
+      "group": "Module 3 — Audience Mapping",
       "pages": [
         "modules/module-3-overview",
         "modules/lesson-3-1",
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "group": "Module 4 â Content Production",
+      "group": "Module 4 — Content Production",
       "pages": [
         "modules/module-4-overview",
         "modules/lesson-4-1",
@@ -112,7 +112,7 @@
       ]
     },
     {
-      "group": "Module 5 â Launch & Broadcast",
+      "group": "Module 5 — Launch & Broadcast",
       "pages": [
         "modules/module-5-overview",
         "modules/lesson-5-1",
@@ -123,7 +123,7 @@
       ]
     },
     {
-      "group": "Module 6 â Community & Engagement",
+      "group": "Module 6 — Community & Engagement",
       "pages": [
         "modules/module-6-overview",
         "modules/lesson-6-1",
@@ -134,7 +134,7 @@
       ]
     },
     {
-      "group": "Module 7 â Monetization & Scaling",
+      "group": "Module 7 — Monetization & Scaling",
       "pages": [
         "modules/module-7-overview",
         "modules/lesson-7-1",
